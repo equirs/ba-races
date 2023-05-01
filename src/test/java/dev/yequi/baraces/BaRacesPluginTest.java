@@ -1,4 +1,4 @@
-package dev.yequi;
+package dev.yequi.baraces;
 
 import net.runelite.client.RuneLite;
 import net.runelite.client.externalplugins.ExternalPluginManager;
